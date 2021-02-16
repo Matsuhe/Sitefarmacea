@@ -1,0 +1,1 @@
+<?php delete("doencas", "id", $explode['1'], "admin/gerenciar-doencas");?>

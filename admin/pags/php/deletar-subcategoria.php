@@ -1,0 +1,1 @@
+<?php delete("subcategorias", "id", $explode['1'], "admin/gerenciar-subcategorias");?>
